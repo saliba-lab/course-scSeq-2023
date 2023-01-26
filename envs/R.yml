@@ -1,4 +1,4 @@
-name: covid19-bal-atlas-scran
+name: myproject-R
 channels:
   - conda-forge
   - bioconda
