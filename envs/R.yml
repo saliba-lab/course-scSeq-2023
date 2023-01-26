@@ -1,0 +1,9 @@
+name: covid19-bal-atlas-scran
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base
+  - r-dplyr
+  - r-ggplot2
