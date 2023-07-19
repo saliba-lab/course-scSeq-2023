@@ -1,6 +1,6 @@
-# Research compendium
+# Course for single-cell sequencing data analysis
 
-This is an example of a research compendium. It contains the instructions for data analysis in a structured and reproducible way.
+This repository contains all instructions for the 2023 course for analysis of single-cell sequencing data.
 
 ## Directory Structure
 
