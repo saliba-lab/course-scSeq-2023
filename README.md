@@ -20,5 +20,5 @@ mamba env create -f envs/R.yml
 ```
 > Then, activate your environment (the name is specified in the file envs/R.yml)
 ```
-conda activate my-first-project
+conda activate sc-seq-course
 ```

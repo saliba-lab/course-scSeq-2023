@@ -1,4 +1,4 @@
-name: myproject-R
+name: sc-seq-course
 channels:
   - conda-forge
   - bioconda
@@ -7,3 +7,4 @@ dependencies:
   - r-base
   - r-dplyr
   - r-ggplot2
+  - rstudio
