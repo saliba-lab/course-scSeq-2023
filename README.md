@@ -6,7 +6,7 @@ This repository contains all instructions for the 2023 course for analysis of si
 
 * `scripts/` - Scripts used for the analysis
 * `docs/` - Document files
-* `data/` - Data output (large, not included in **git**)
+* `data/` - Data (large, not included in **git**)
 * `workflows/` - Workflows executing scripts in **bin/**
 * `reports/` - Reports for exploratory analysis
 * `results/` - Analysis output (not included in **git**)
