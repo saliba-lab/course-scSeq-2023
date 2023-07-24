@@ -14,7 +14,8 @@ This repository contains all instructions for the 2023 course for analysis of si
 * `LICENSE` - The project license
 
 ## First Steps
-> First, install the necessary packages
+> First, open your terminal (Ubuntu: Alt+Ctrl+T, Windows: search for Powershell)
+> Next, install the necessary packages
 ```
 mamba env create -f envs/R.yml
 ```
