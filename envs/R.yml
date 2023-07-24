@@ -5,6 +5,5 @@ channels:
   - defaults
 dependencies:
   - r-base
-  - r-dplyr
-  - r-ggplot2
+  - r-seurat
   - rstudio
