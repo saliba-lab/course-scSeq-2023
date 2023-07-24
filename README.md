@@ -17,11 +17,12 @@ This repository contains all instructions for the 2023 course for analysis of si
 conda install -c conda-forge mamba # (this will only increase speed later on!)
 mamba install -c anaconda git 
 ```
-> Next, download and enter the repository. Afterwards install the necessary packages
+> Next, download and enter the repository.
 ```
 git clone https://github.com/saliba-lab/course-scSeq-2023.git
 cd course-scSeq-2023
 ```
+> Afterwards install the necessary packages.
 ```
 mamba env create -f envs/R.yml
 ```
