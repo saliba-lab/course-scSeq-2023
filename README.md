@@ -12,15 +12,17 @@ This repository contains all instructions for the 2023 course for analysis of si
 * `LICENSE` - The project license
 
 ## First Steps
-> First, you need to install [conda](https://docs.conda.io/en/latest/). Then, open your terminal (Ubuntu: Alt+Ctrl+T, Windows: search for Powershell), install git and download the repository.
+> First, you need to install [conda](https://docs.conda.io/en/latest/). Then, open your terminal (Ubuntu: Alt+Ctrl+T, Windows: search for Powershell) and install git.
 ```
 conda install -c conda-forge mamba # (this will only increase speed later on!)
 mamba install -c anaconda git 
+```
+> Next, download and enter the repository. Afterwards install the necessary packages
+```
 git clone https://github.com/saliba-lab/course-scSeq-2023.git
-```
-> Next, enter the repository and install the necessary packages
-```
 cd course-scSeq-2023
+```
+```
 mamba env create -f envs/R.yml
 ```
 > Then, activate your environment (the name is specified in the file envs/R.yml)
