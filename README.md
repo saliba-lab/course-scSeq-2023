@@ -30,3 +30,19 @@ mamba env create -f envs/R.yml
 ```
 conda activate sc-seq-course
 ```
+
+## Background
+Here are references that provide background for the fundamentals or R as well as single-cell analysis.
+### R and Data Science
+- [Google Style Guide](https://google.github.io/styleguide/)
+- [Tidyverse style guide](https://style.tidyverse.org/) by Hadley Wickham
+- [R intro](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) by the R core team
+- [R for Data Science (R4DS))](https://r4ds.had.co.nz/) by Hadley Wickham
+- [Introduction to Data Science](http://rafalab.dfci.harvard.edu/dsbook/) by Rafael Irizarry
+- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) by Wolfgang Huber
+
+### Single-cell Analysis
+- [Seurat](https://satijalab.org/seurat/)
+- [Orchestrating Single-Cell Analysis](https://bioconductor.org/books/release/OSCA/) with Bioconductor
+- [scanpy](https://scanpy.readthedocs.io/en/stable/) by the Theis lab
+- [scVI-tools](https://scvi-tools.org/) by the Josef lab
